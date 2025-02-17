@@ -1,5 +1,6 @@
 ### Entrada como root antes de los 20 minutos:
-![Entrada root](ruta/a/la/imagen/Pasted%20image%20250213165446.png)
+
+![Entrada root](<Pasted image 20250213165446.png>)
 
 ### Configuración de los puertos por defecto de SSH:
 ![Configuración SSH 1](ruta/a/la/imagen/Pasted%20image%20250213170219.png)
