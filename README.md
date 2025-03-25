@@ -14,7 +14,6 @@
 
 
 ### Agente de Wazuh configurado:
-_(Davilillo, expuesto hasta las trancas, lo sé 😅)_
 ![alt text](<Pasted image 20250213182630.png>)
 
 
